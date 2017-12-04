@@ -9,6 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^2.2.33"
+    "body-parser": "^1.18.2",
+    "expect": "^21.2.1",
+    "express": "^4.16.2",
+    "mocha": "^4.0.1",
+    "mongodb": "^2.2.33",
+    "mongoose": "^4.13.6",
+    "nodemon": "^1.12.1",
+    "supertest": "^3.0.0"
   }
 }
